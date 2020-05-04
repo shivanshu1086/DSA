@@ -21,9 +21,8 @@ if((a == 0 && b < 0) ||  (a > 0 && b == 0))
    return false; 
   
 // swap needed 
-if((a == 0 && b > 0) ||  (a < 0 && b == 0)) 
-   return true; 
-  
+
+return ((a == 0 && b > 0) ||  (a < 0 && b == 0)) ;
 } 
 
 void rearrange(int arr[], int n) 

@@ -9,24 +9,20 @@ bool comp(int a, int b)
 { 
   
 // swap not needed 
-if((a > 0 && b > 0) ||  
-   (a < 0 && b < 0) ||  
-   (a > 0 && b < 0 )) 
-return false; 
+if((a > 0 && b > 0) ||  (a < 0 && b < 0) ||  (a > 0 && b < 0 )) 
+   return false; 
   
 // swap needed 
 if(a < 0 && b > 0)  
-return true; 
+   return true; 
   
 // swap not needed 
-if((a == 0 && b < 0) ||  
-   (a > 0 && b == 0)) 
-return false; 
+if((a == 0 && b < 0) ||  (a > 0 && b == 0)) 
+   return false; 
   
 // swap needed 
-if((a == 0 && b > 0) ||  
-   (a < 0 && b == 0)) 
-return true; 
+if((a == 0 && b > 0) ||  (a < 0 && b == 0)) 
+   return true; 
   
 } 
 

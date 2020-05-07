@@ -40,7 +40,7 @@ void K_MAX_SUM(int *a, int *b, int n, int k){
 	for(int count=0;count<k;count++){
 		pair<int,pair<int,int> > temp=pq.top();
 		pq.pop();
-		cout<<temp.first<<endl;
+		cout<<"("<<a[i]<<","<<b[j]<<")"<<endl;
 		int i=temp.second.first;
 		int j=temp.second.second;
 

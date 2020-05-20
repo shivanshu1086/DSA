@@ -8,3 +8,4 @@
   >- [Optimization Problems](https://github.com/shivanshu1086/DSA/tree/master/Arrays/optimization-problem)
   >- [Sorting](https://github.com/shivanshu1086/DSA/tree/master/Arrays/sorting)
   >- [Searching](https://github.com/shivanshu1086/DSA/tree/master/Arrays/searching)
+  >- [Matrix](https://github.com/shivanshu1086/DSA/tree/master/Arrays/matrix)

@@ -12,4 +12,4 @@
   >- [Misc](https://github.com/shivanshu1086/DSA/tree/master/Arrays/misc)
 
 - Linked List
-  >- [Singly Linked list](https://github.com/shivanshu1086/DSA/tree/master/Arrays/misc)
+  >- [Singly Linked list](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Singly%20Linked%20List)

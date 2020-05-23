@@ -10,3 +10,6 @@
   >- [Searching](https://github.com/shivanshu1086/DSA/tree/master/Arrays/searching)
   >- [Matrix](https://github.com/shivanshu1086/DSA/tree/master/Arrays/matrix)
   >- [Misc](https://github.com/shivanshu1086/DSA/tree/master/Arrays/misc)
+
+- Linked List
+  >- [Singly Linked list](https://github.com/shivanshu1086/DSA/tree/master/Arrays/misc)

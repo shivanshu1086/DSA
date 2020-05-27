@@ -151,7 +151,7 @@ public:
     //length of the linked list
     int length(){
         node *temp=head;
-        int cnt;
+        int cnt=0;
         while(temp!=NULL){
             cnt++;
             temp=temp->next;

@@ -42,4 +42,13 @@ public:
             temp=temp->next;
         }
     }
+
+    int length(node *head){
+        int cnt=0;
+        while(head!=NULL){
+            cnt++;
+            head=head->next;
+        }
+        return cnt;
+    }
 };

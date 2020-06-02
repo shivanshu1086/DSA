@@ -14,4 +14,5 @@
 - Linked List
   >- [Singly Linked list](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Singly%20Linked%20List)
   >- [Circular Linked list](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Circular%20Linked%20List)
-  >- [Doubly Linked list](https://github.com/shivanshu1086/DSA/tree/master/Circular%20List/Doubly%20Linked%20List)
+  >- [Doubly Linked list](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Doubly%20Linked%20List)
+  >- [Misc (Split List) ](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Misc)

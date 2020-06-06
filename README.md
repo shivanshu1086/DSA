@@ -16,3 +16,6 @@
   >- [Circular Linked list](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Circular%20Linked%20List)
   >- [Doubly Linked list](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Doubly%20Linked%20List)
   >- [Misc (Split List) ](https://github.com/shivanshu1086/DSA/tree/master/Linked%20List/Misc)
+
+- Stack
+  >- [Design](https://github.com/shivanshu1086/DSA/tree/master/Stack/Design)

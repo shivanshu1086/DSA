@@ -19,3 +19,10 @@
 
 - Stack
   >- [Design](https://github.com/shivanshu1086/DSA/tree/master/Stack/Design)
+  >- [Operations On Stack](https://github.com/shivanshu1086/DSA/tree/master/Stack/Operations%20On%20Stack)
+  >- [Problems On Stack](https://github.com/shivanshu1086/DSA/tree/master/Stack/Problems%20On%20Stack)
+  >- [Misc](https://github.com/shivanshu1086/DSA/tree/master/Stack/Misc)
+
+- Queue
+  >- [Implementation](https://github.com/shivanshu1086/DSA/tree/master/Queue/Implementaion)
+  >- [Operations On Queue](https://github.com/shivanshu1086/DSA/tree/master/Queue/Operations%20On%20Queue)

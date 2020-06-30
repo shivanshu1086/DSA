@@ -26,3 +26,4 @@
 - Queue
   >- [Implementation](https://github.com/shivanshu1086/DSA/tree/master/Queue/Implementaion)
   >- [Operations On Queue](https://github.com/shivanshu1086/DSA/tree/master/Queue/Operations%20On%20Queue)
+  >- [Misc](https://github.com/shivanshu1086/DSA/tree/master/Queue/Misc)

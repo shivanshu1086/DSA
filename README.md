@@ -31,3 +31,9 @@
 - Binary Tree
   >- [Intro](https://github.com/shivanshu1086/DSA/tree/master/Binary%20Tree/Intro)
   >- [Traversals](https://github.com/shivanshu1086/DSA/tree/master/Binary%20Tree/Traversals)
+
+- Heaps
+
+- Hashing
+
+- Graphs
